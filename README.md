@@ -24,18 +24,19 @@ The system was built in a way that allows new payment services to be added witho
 ## 🏗️ Project Structure
 
 
+```text
 src
 ├── application
-│ └── Program.java
+│   └── Program.java
 │
 ├── entities
-│ ├── Contract.java
-│ └── Installment.java
+│   ├── Contract.java
+│   └── Installment.java
 │
 └── services
-├── OnlinePaymentService.java
-├── PaypalService.java
-└── ContractService.java
+    ├── OnlinePaymentService.java
+    ├── PaypalService.java
+    └── ContractService.java
 
 ---
 
