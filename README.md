@@ -74,6 +74,9 @@ Generated installments:
 
 ---
 
+
+---
+
 ## 🔄 How to Extend This Project
 
 You can easily add new payment methods by creating new implementations of the `OnlinePaymentService` interface:
@@ -91,6 +94,7 @@ No changes are required in the core contract logic.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/contract-installment-processor.git
+
 Open the project in IntelliJ IDEA
 
 Run the Program class
